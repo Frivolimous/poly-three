@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "none",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outFile": "./game.js",
+    "target": "es5",
+  },
+  "include": [
+    "./src/*",
+    "./src/**/*",
+    
+  ],
+}
